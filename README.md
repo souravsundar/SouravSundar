@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sourav Sundar</h1>
 <h3 align="center">MERN Stack Developer | IT Support | Data Entry Expert</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 - 🌱 I’m currently sharpening my skills in **React.js, Next.js, Tailwind CSS, and UI/UX Design**
 - 🧑‍💻 All of my projects are available at [My Portfolio](#) <!-- Update with real portfolio link -->
 - 💬 Ask me about **MERN stack, Excel automation, data entry tools, IT support issues**
 - 📫 How to reach me: **souravsundar31@gmail.com**
-- ⚡ Fun fact: I started with data entry and now I build full-stack web apps!
+- ⚡ Fun fact:  I started coding for fun — now I debug life decisions the same way I debug my code!
 
 ---
 
@@ -24,14 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouravSundar&show_icons=true&theme=react" alt="Sourav's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravSundar&theme=react" />
-</p>
 
 ---
 
@@ -45,6 +37,7 @@
 
 ### 🧾 Certifications
 - MERN Stack – NACTET & Synnefo Solutions
+- NACTET Certification in Mern Stack
 - Google Data Analytics – Coursera
 - Web Dev – Trinity Technologies
 - Advanced Excel – Udemy
